@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - [Indeed](https://my.indeed.com/p/laurencem-ktj32mw)
 
 ## Miscellaneous
-- Ask me about (insert college movie reference).
+- Ask me about (insert college movie reference)
 - How to reach me: (don't)
 - Pronouns: they/them (plural)
-- Fun fact: If you can read this, then you're still in the Swallowing Monster
+- Fun fact: If you can read this, then you just [lost the game](https://www.losethegame.com)
 
 # Innovations Anonymous
 Free Code for a Free World!
