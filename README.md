@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 - Pronouns: they/them (plural)
 - Fun fact: If you can read this, then you just [lost the game](https://www.losethegame.com)
 
-# Innovations Anonymous
-[InnovAnon](https://InnovAnon-Inc.github.io)
+# [InnovAnon](https://InnovAnon-Inc.github.io): Innovations Anonymous
 Free Code for a Free World!
 ==========
 ![Corporate Logo](https://innovanon-inc.github.io/assets/images/logo.gif)
