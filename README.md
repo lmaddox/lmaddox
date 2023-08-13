@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Miscellaneous
 - Ask me about (insert college movie reference)
-- How to reach me: (don't)
+- How to reach me: ([don't](https://devnull-as-a-service.com/))
 - Pronouns: they/them (plural)
 - Fun fact: If you can read this, then you just [lost the game](https://www.losethegame.com)
 
