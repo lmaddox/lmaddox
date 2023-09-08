@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Brahmjot Singh
 
 ## Social Media
+- [Personal](https://InnovAnon-Inc.github.io/lmaddox)
 - [LinkedIn](https://www.linkedin.com/in/lmaddox90/)
 - [Indeed](https://my.indeed.com/p/laurencem-ktj32mw)
 
